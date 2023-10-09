@@ -1,0 +1,1412 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "KOdwI6J9NfpIROvOj6Qghf1mjjU",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 22245,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PgozMgqplheExMyUI4gjTJ0glS0",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCU69ROL7juUiTZVs5PsN55Q"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-20T18:29:29Z",
+                "channelId": "UCU69ROL7juUiTZVs5PsN55Q",
+                "title": "andrea's fashion galaxy",
+                "description": "Hello everyone! My name is Andrea and I love fashion (and animals -- I have six pets who often make an appearance in my ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/eciMMidxSE8iRqOVEzkhm3THrgdJDl3Uu5fVPgSYuTr6CBri0WJbX9zq7dtFr3q6xSRtT_25=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/eciMMidxSE8iRqOVEzkhm3THrgdJDl3Uu5fVPgSYuTr6CBri0WJbX9zq7dtFr3q6xSRtT_25=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/eciMMidxSE8iRqOVEzkhm3THrgdJDl3Uu5fVPgSYuTr6CBri0WJbX9zq7dtFr3q6xSRtT_25=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "andrea's fashion galaxy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-20T18:29:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WV1B8rO-TVrJxLl4aqd3uOZnwhM",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCLl5Fkt4JptozhdbNi_NvRw"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-21T02:21:57Z",
+                "channelId": "UCLl5Fkt4JptozhdbNi_NvRw",
+                "title": "Fashion Wow",
+                "description": "Welcome to Fashion WOW Our channel complicate all the characters in popular cartoon movies in the form of editting, painting, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/FUjcKKrwKkZ6alL-yg7QA9OvpGHqpCnU1N7BuWtIxDwBx8oGy9QH68vVg6RC-4vN_5-P4U5tPeY=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/FUjcKKrwKkZ6alL-yg7QA9OvpGHqpCnU1N7BuWtIxDwBx8oGy9QH68vVg6RC-4vN_5-P4U5tPeY=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/FUjcKKrwKkZ6alL-yg7QA9OvpGHqpCnU1N7BuWtIxDwBx8oGy9QH68vVg6RC-4vN_5-P4U5tPeY=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion Wow",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-21T02:21:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wvK1ts6DvjGL1JeR1IcIlGNO8og",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCEVEu7MaHpE72hZMje8-zhw"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-21T13:14:59Z",
+                "channelId": "UCEVEu7MaHpE72hZMje8-zhw",
+                "title": "Cartoon Fashion",
+                "description": "Cartoon Fashion Our channel complicate all the characters in popular cartoon movies in the form of editting, painting, drawing, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/HoE_bcKDeTgt0ajl_YtpYGFF5f2-q7cDJxjy0bfTAYfcPRG-3Jn0CPtsSIMM7r9BWiI_gUIw5Uk=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/HoE_bcKDeTgt0ajl_YtpYGFF5f2-q7cDJxjy0bfTAYfcPRG-3Jn0CPtsSIMM7r9BWiI_gUIw5Uk=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/HoE_bcKDeTgt0ajl_YtpYGFF5f2-q7cDJxjy0bfTAYfcPRG-3Jn0CPtsSIMM7r9BWiI_gUIw5Uk=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Cartoon Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-21T13:14:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "t_y4HUAM7DlTOE2Ww2TJNj0_Tew",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCnqRz23PX9QOWxeDai7acpA"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-19T23:04:41Z",
+                "channelId": "UCnqRz23PX9QOWxeDai7acpA",
+                "title": "40 Over Fashion",
+                "description": "40OverFashion.com is a men's lifestyle site catering to grownup men of all ages. The 40 Over Fashion YouTube channel offers ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKbUiYD1SuK3KOBaUaSFNwrn5Y_1KY97tu-SO6g4=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKbUiYD1SuK3KOBaUaSFNwrn5Y_1KY97tu-SO6g4=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKbUiYD1SuK3KOBaUaSFNwrn5Y_1KY97tu-SO6g4=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "40 Over Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-11-19T23:04:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F9EmmZOcP46_uIceiT_rFQrgt60",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCf8RUzh59m1XX8NjA3qHjEg"
+            },
+            "snippet": {
+                "publishedAt": "2013-08-19T15:10:07Z",
+                "channelId": "UCf8RUzh59m1XX8NjA3qHjEg",
+                "title": "What to Wear - Classic fashion for women",
+                "description": "Welcome to WHAT TO WEAR the ultimate destination for Classic style. If you like to dress well here you'll find tips and tricks, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/L8AyO3gIHvly2A9QDbueqTkPgD-4ru6cXq2hbKI8o5dd5aq10GVTCeyS-zhrRfutrOymhLzytw=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/L8AyO3gIHvly2A9QDbueqTkPgD-4ru6cXq2hbKI8o5dd5aq10GVTCeyS-zhrRfutrOymhLzytw=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/L8AyO3gIHvly2A9QDbueqTkPgD-4ru6cXq2hbKI8o5dd5aq10GVTCeyS-zhrRfutrOymhLzytw=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "What to Wear - Classic fashion for women",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-08-19T15:10:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5BCs05x3C82KgYr-d9YoDBn5zrk",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCtVMYlgq_Xf4E7YDowh0fpg"
+            },
+            "snippet": {
+                "publishedAt": "2015-09-19T21:32:47Z",
+                "channelId": "UCtVMYlgq_Xf4E7YDowh0fpg",
+                "title": "Fashion Wizardry",
+                "description": "Hi! I'm Matildah and I majorly do DIYs, a bit of fashion & occasional lifestyle videos on this little corner of the internet. I have at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/BrfVGVkRLpfBVA3QCoaw2_nmAmlx_F5STtWq0CyQQIV5l9XGhHtN-wn2fB_SVagKC9-h-U1X=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/BrfVGVkRLpfBVA3QCoaw2_nmAmlx_F5STtWq0CyQQIV5l9XGhHtN-wn2fB_SVagKC9-h-U1X=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/BrfVGVkRLpfBVA3QCoaw2_nmAmlx_F5STtWq0CyQQIV5l9XGhHtN-wn2fB_SVagKC9-h-U1X=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion Wizardry",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-09-19T21:32:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fjitTxvK07Fj7d3cTXxErf9X12c",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCeKN1FCLQbW_CFzrRXlv1iA"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-30T12:17:48Z",
+                "channelId": "UCeKN1FCLQbW_CFzrRXlv1iA",
+                "title": "Fashion and Style Edit",
+                "description": "Hi I'm Jess, welcome to the official Fashion and Style Edit YouTube Channel. I'm a UK based fashion blogger who loves timeless ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/8u5Nsi_6X6WjE14Xkeoul2pdXVnjDCPD3mwfCnBN9yx5TA-A4cIhKUqcBYhdw4WXLYwZNac7gcU=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/8u5Nsi_6X6WjE14Xkeoul2pdXVnjDCPD3mwfCnBN9yx5TA-A4cIhKUqcBYhdw4WXLYwZNac7gcU=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/8u5Nsi_6X6WjE14Xkeoul2pdXVnjDCPD3mwfCnBN9yx5TA-A4cIhKUqcBYhdw4WXLYwZNac7gcU=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion and Style Edit",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2018-04-30T12:17:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ETky2UDUi6TKUz3PQ2H9AsMBvIw",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC2ELhHBZOCSAi1E7JF7CjUA"
+            },
+            "snippet": {
+                "publishedAt": "2013-05-22T02:27:12Z",
+                "channelId": "UC2ELhHBZOCSAi1E7JF7CjUA",
+                "title": "Angelas Fashion Mix",
+                "description": "Hello and Welcome to my Channel\u263a\ufe0f Here, it's all about Mixing and Matching from my closet and sharing how I create new ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/MoIAFcui2-UxiYw4_TqdhV48-EsQSB4E6u3owNrG1QeUpaFAJPubJl0SdDczXsvjipoOi2OI=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/MoIAFcui2-UxiYw4_TqdhV48-EsQSB4E6u3owNrG1QeUpaFAJPubJl0SdDczXsvjipoOi2OI=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/MoIAFcui2-UxiYw4_TqdhV48-EsQSB4E6u3owNrG1QeUpaFAJPubJl0SdDczXsvjipoOi2OI=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Angelas Fashion Mix",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2013-05-22T02:27:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FQiOLsY_ZH-Cq4wpDoCeP69t_hA",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCRVetoa-F-HfIg1WBWRcxRQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-17T14:43:03Z",
+                "channelId": "UCRVetoa-F-HfIg1WBWRcxRQ",
+                "title": "NIGERIA FASHION",
+                "description": "This channel is all about bringing you beautiful dressing styles from the Nigerian cultural, content relating to, *Igbo traditional ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/YjWr2sXAz2KVlhCVOfbsJyTWhRu2VLKmlpZ9Wrihnw0JFMIb3WwmEvuCA94yRp3ctu1dRO8R8A=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/YjWr2sXAz2KVlhCVOfbsJyTWhRu2VLKmlpZ9Wrihnw0JFMIb3WwmEvuCA94yRp3ctu1dRO8R8A=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/YjWr2sXAz2KVlhCVOfbsJyTWhRu2VLKmlpZ9Wrihnw0JFMIb3WwmEvuCA94yRp3ctu1dRO8R8A=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "NIGERIA FASHION",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-17T14:43:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zvyjB68CSFyscAXaYQE3sJEOkp8",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCVmPyrwjL0wepDhmvgzlOcA"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-11T04:41:12Z",
+                "channelId": "UCVmPyrwjL0wepDhmvgzlOcA",
+                "title": "Fashion Roadman",
+                "description": "Hi! I'm a fashion journalist published in Vogue, GQ, BoF + More. I talk about fashion history, analyse runway shows and create ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/UHdKB69FoNMuR9l-OH92VGe6d4JSI5HP0KcF_64qlD5QcqrErTChPylJVPBvb5XvPTSsoHAlAg=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/UHdKB69FoNMuR9l-OH92VGe6d4JSI5HP0KcF_64qlD5QcqrErTChPylJVPBvb5XvPTSsoHAlAg=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/UHdKB69FoNMuR9l-OH92VGe6d4JSI5HP0KcF_64qlD5QcqrErTChPylJVPBvb5XvPTSsoHAlAg=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion Roadman",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-01-11T04:41:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RCqB3Tkfqtk1s-KAxd1tsIe8pek",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCg0dwBQ79J1e9wGcmrGUKcg"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-08T16:36:51Z",
+                "channelId": "UCg0dwBQ79J1e9wGcmrGUKcg",
+                "title": "Crush Fashion",
+                "description": "On my channel, I show and tell about clothes from different brands and stores. My reviews are always honest regardless of the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/qdZhuPcWiBYAI6p03ie3Q_jw_upjZ5UofD9ak2rs2EQbJLvCJcyzEW76Sixsc9HjqjtQhmWpZw=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/qdZhuPcWiBYAI6p03ie3Q_jw_upjZ5UofD9ak2rs2EQbJLvCJcyzEW76Sixsc9HjqjtQhmWpZw=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/qdZhuPcWiBYAI6p03ie3Q_jw_upjZ5UofD9ak2rs2EQbJLvCJcyzEW76Sixsc9HjqjtQhmWpZw=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Crush Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-11-08T16:36:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "X3pm5Kpq6qrCYL5gdBqW--x3l0U",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCstgRTy7c1W69lkMlc53-Nw"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-03T11:19:34Z",
+                "channelId": "UCstgRTy7c1W69lkMlc53-Nw",
+                "title": "My Over 50 Fashion Life",
+                "description": "Welcome. I am a 55+ babyboomer who is passionate about over 50 being a time for us to remain relevant by looking stylish over ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/2Xd6iP8alNJbXzjy1hmiEJtOaMH5lWDfJHwi7s6RBOgX--n4k1UOP8P8zhkv_9Db4c3yybeMkBg=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/2Xd6iP8alNJbXzjy1hmiEJtOaMH5lWDfJHwi7s6RBOgX--n4k1UOP8P8zhkv_9Db4c3yybeMkBg=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/2Xd6iP8alNJbXzjy1hmiEJtOaMH5lWDfJHwi7s6RBOgX--n4k1UOP8P8zhkv_9Db4c3yybeMkBg=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "My Over 50 Fashion Life",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2018-06-03T11:19:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "q5MWA2jMrG7-cp3G0oTMlCYp5xU",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCtp73qiRPOdr_dUM-a_EjLA"
+            },
+            "snippet": {
+                "publishedAt": "2013-12-06T19:16:57Z",
+                "channelId": "UCtp73qiRPOdr_dUM-a_EjLA",
+                "title": "Home Garden and Fashion",
+                "description": "Hello! I'm Melody. I love fashion design, gardening, cooking, traveling, and all types of ASMR :)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/SHN6NjCFK7aV6L3KEQb9NNm961Mut4CWgnxBiXILIu4eBTu-2fCNYHDJZ5lXI5JUv2ier-gU6w=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/SHN6NjCFK7aV6L3KEQb9NNm961Mut4CWgnxBiXILIu4eBTu-2fCNYHDJZ5lXI5JUv2ier-gU6w=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/SHN6NjCFK7aV6L3KEQb9NNm961Mut4CWgnxBiXILIu4eBTu-2fCNYHDJZ5lXI5JUv2ier-gU6w=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Home Garden and Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-12-06T19:16:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GQaJ6nU1jlV5JAabXA55zkRgYA4",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCc95c_6uMb1VyFEJjgydHRA"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-19T00:04:57Z",
+                "channelId": "UCc95c_6uMb1VyFEJjgydHRA",
+                "title": "Politics & Fashion",
+                "description": "Welcome to Politics & Fashion, a space dedicated to style and self-care. If you're interested in creating a wardrobe you love and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/oBPO9DPPpzoeD1Nm5iteyRiUzJA2JdU_iJBkf1MI24KtlBblUIZQePWgw0xsmMubjNg9Bw_3eg=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/oBPO9DPPpzoeD1Nm5iteyRiUzJA2JdU_iJBkf1MI24KtlBblUIZQePWgw0xsmMubjNg9Bw_3eg=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/oBPO9DPPpzoeD1Nm5iteyRiUzJA2JdU_iJBkf1MI24KtlBblUIZQePWgw0xsmMubjNg9Bw_3eg=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Politics & Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-02-19T00:04:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T0jqhLR1n1mXvAyMBR1OdGF9iVg",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCKKpXkbaGG6b_MXTfjORiMw"
+            },
+            "snippet": {
+                "publishedAt": "2009-07-15T23:03:57Z",
+                "channelId": "UCKKpXkbaGG6b_MXTfjORiMw",
+                "title": "Doctor Fashion",
+                "description": "Welcome to a one-of-a-kind YouTube channel, where creativity meets intellect! Join me \"Doctor Fashion\" on a captivating journey ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/mqOmkzwTOWH_iv6thkIhGdVU8TiMvf4j0X3jsXn8MBrakF61H2Sc_7_fclgR30PtbjFIPu1lAA=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/mqOmkzwTOWH_iv6thkIhGdVU8TiMvf4j0X3jsXn8MBrakF61H2Sc_7_fclgR30PtbjFIPu1lAA=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/mqOmkzwTOWH_iv6thkIhGdVU8TiMvf4j0X3jsXn8MBrakF61H2Sc_7_fclgR30PtbjFIPu1lAA=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Doctor Fashion",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2009-07-15T23:03:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J6mf2Zd3nvI-hA1L5Y-kxpObdkk",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCOfA-hnaLWTC41rkhR7kvhw"
+            },
+            "snippet": {
+                "publishedAt": "2011-09-28T09:40:10Z",
+                "channelId": "UCOfA-hnaLWTC41rkhR7kvhw",
+                "title": "Fashion Barbie",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKaZ18_KPlQeEOjwfcIRvoL-j7z7cd7LIja22R7_-g=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKaZ18_KPlQeEOjwfcIRvoL-j7z7cd7LIja22R7_-g=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKaZ18_KPlQeEOjwfcIRvoL-j7z7cd7LIja22R7_-g=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion Barbie",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2011-09-28T09:40:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wgl3iKaW-KRhAVWj1MDJIgtBYr0",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UChWkgJASAniUGxfrVplBkiA"
+            },
+            "snippet": {
+                "publishedAt": "2013-07-26T15:04:14Z",
+                "channelId": "UChWkgJASAniUGxfrVplBkiA",
+                "title": "Foxy Boots & Fashion",
+                "description": "Hello and Welcome to My Leather Boots Fashion Channel ! I love to wear leather boots everyday and I want to share this with you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZIL9K5FZ94oADSfFqhK0SIODMzdgb8tg-O1PjWjv0=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZIL9K5FZ94oADSfFqhK0SIODMzdgb8tg-O1PjWjv0=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZIL9K5FZ94oADSfFqhK0SIODMzdgb8tg-O1PjWjv0=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Foxy Boots & Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-07-26T15:04:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FY-hqLb0S9bWn4aP6Swb9pDUo0w",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCIq58g_1_vGIUQaRqmFT35A"
+            },
+            "snippet": {
+                "publishedAt": "2008-01-25T20:01:37Z",
+                "channelId": "UCIq58g_1_vGIUQaRqmFT35A",
+                "title": "A FASHION",
+                "description": "Welcome To A FASHION! The No.1 channel to remember if you LOVE fashion, good music and appreciate top quality videos.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/pkbUzGJ7UXwAf9im4oDus5haTJAVrCHf0Jted-mUMCOkXyfJKaw0941MQEX3MjIITnX-NaQHUQ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/pkbUzGJ7UXwAf9im4oDus5haTJAVrCHf0Jted-mUMCOkXyfJKaw0941MQEX3MjIITnX-NaQHUQ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/pkbUzGJ7UXwAf9im4oDus5haTJAVrCHf0Jted-mUMCOkXyfJKaw0941MQEX3MjIITnX-NaQHUQ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "A FASHION",
+                "liveBroadcastContent": "none",
+                "publishTime": "2008-01-25T20:01:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JUFBnEJIP86J6vuj2Opu7lnFT5E",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCScQ79ZqbRUK8EhfLeE7Ubw"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-25T06:33:00Z",
+                "channelId": "UCScQ79ZqbRUK8EhfLeE7Ubw",
+                "title": "PASSION FOR FASHION",
+                "description": "I upload videos about fashion & style! If you have any video requests please let me know! x Copyright Issues: My videos are for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYD2WHIruDaq1rRAIYmmDUzzNsv1PrEkygq2ivS1A=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYD2WHIruDaq1rRAIYmmDUzzNsv1PrEkygq2ivS1A=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYD2WHIruDaq1rRAIYmmDUzzNsv1PrEkygq2ivS1A=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "PASSION FOR FASHION",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-10-25T06:33:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "U92EholCrkMfcJ6Hy2YIrm3wpV4",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCqmQhM-gR7Dlg6O8BcKUItg"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-21T18:25:50Z",
+                "channelId": "UCqmQhM-gR7Dlg6O8BcKUItg",
+                "title": "Royal Fashion News",
+                "description": "On this channel, we provide compelling news and commentary on all the royal fashionistas from around Europe--including ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/a9EwDjrxxaXCImt6jsyym8plEGyHRrxqriy9WFiRBIWQub9E9vcI__LGWFQ5eA0Lhm1gO98U2SQ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/a9EwDjrxxaXCImt6jsyym8plEGyHRrxqriy9WFiRBIWQub9E9vcI__LGWFQ5eA0Lhm1gO98U2SQ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/a9EwDjrxxaXCImt6jsyym8plEGyHRrxqriy9WFiRBIWQub9E9vcI__LGWFQ5eA0Lhm1gO98U2SQ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Royal Fashion News",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2021-11-21T18:25:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Mm91k5CK4h7XaHp26A_ip6_emXw",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCELqNeLG7I1sZKC8q9JqBHg"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-20T06:38:49Z",
+                "channelId": "UCELqNeLG7I1sZKC8q9JqBHg",
+                "title": "ZAMAKALE FASHION",
+                "description": "It is all about African dresses styles including African hair styles, Wedding dresses fashion from different parts of Africa || East ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/46StMGY8flHeyKnAzeOA0-7c4FGfqnoL5hJ_M040nzc8OMdnFzptYBXHWcNvtMyIk1hI_Bqw=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/46StMGY8flHeyKnAzeOA0-7c4FGfqnoL5hJ_M040nzc8OMdnFzptYBXHWcNvtMyIk1hI_Bqw=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/46StMGY8flHeyKnAzeOA0-7c4FGfqnoL5hJ_M040nzc8OMdnFzptYBXHWcNvtMyIk1hI_Bqw=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "ZAMAKALE FASHION",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-20T06:38:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QLDPI0KUeeaGWjaD55Wszj-H978",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCe1qICvWRDbdH7-Fixvj7Bg"
+            },
+            "snippet": {
+                "publishedAt": "2009-01-03T02:17:41Z",
+                "channelId": "UCe1qICvWRDbdH7-Fixvj7Bg",
+                "title": "The Business of Fashion",
+                "description": "The Business of Fashion has built a global following as an essential daily resource for fashion creatives, business professionals ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKY6PqXos-BALnmHpjIQlo7dOMqHTSaEOwKVIv7-Bg=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKY6PqXos-BALnmHpjIQlo7dOMqHTSaEOwKVIv7-Bg=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKY6PqXos-BALnmHpjIQlo7dOMqHTSaEOwKVIv7-Bg=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "The Business of Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-01-03T02:17:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PDCMvujcDqJj3x4QmoqkHGnYkuQ",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCBfzYbCfaKyvMQYNkzooy4Q"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-15T13:43:40Z",
+                "channelId": "UCBfzYbCfaKyvMQYNkzooy4Q",
+                "title": "Geek on Fashion",
+                "description": "Nelly from Geekonfashion.com is a fashion, beauty & lifestyle content creator. Enjoying life's little luxuries daily Subscribe, like, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/D8PNlQLFcjPlHKdnjZ1ihBHcInfRLGAsMIsHHm9AA9ZZuMj8uqcofxNdwXaa5QrG9EXKiVrZ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/D8PNlQLFcjPlHKdnjZ1ihBHcInfRLGAsMIsHHm9AA9ZZuMj8uqcofxNdwXaa5QrG9EXKiVrZ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/D8PNlQLFcjPlHKdnjZ1ihBHcInfRLGAsMIsHHm9AA9ZZuMj8uqcofxNdwXaa5QrG9EXKiVrZ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Geek on Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-09-15T13:43:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZlEK2d8hvPkeJk9_-gJZ27TrpU8",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCVzBWAun4M54xTXLqDOpv-g"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-18T20:16:34Z",
+                "channelId": "UCVzBWAun4M54xTXLqDOpv-g",
+                "title": "Taste Of Fashion",
+                "description": "Ovo je pri\u010da o jednoj \u017eeni, koja nije imala ni\u0161ta, a radom je napravila sva\u0161ta. :) Ovde se pri\u010da na razne teme, s primarnim ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/r_q1xZUPJ_aVVFn7bOdUqzgYTz4a7UsnMMlF-1VTj5XNPixO1fFXFQVduPRh5uKJPRLcltcq=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/r_q1xZUPJ_aVVFn7bOdUqzgYTz4a7UsnMMlF-1VTj5XNPixO1fFXFQVduPRh5uKJPRLcltcq=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/r_q1xZUPJ_aVVFn7bOdUqzgYTz4a7UsnMMlF-1VTj5XNPixO1fFXFQVduPRh5uKJPRLcltcq=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Taste Of Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-18T20:16:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wWR2US4CdUK2HYq1503XSNJsOv0",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCMT3-1E_W6RBMixKvETIYXw"
+            },
+            "snippet": {
+                "publishedAt": "2011-12-02T12:03:52Z",
+                "channelId": "UCMT3-1E_W6RBMixKvETIYXw",
+                "title": "Lati Fashion",
+                "description": "Barcelona (ESP)     | T\u00e1nger (MAR)     29 |04 |1997 Facebook: Latifa Nakmouch Instagram: Lati Fashion.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZkWbqb1OuNRzFy9onAfjTjuNbzlC5CGSoC7W4X-Q=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZkWbqb1OuNRzFy9onAfjTjuNbzlC5CGSoC7W4X-Q=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZkWbqb1OuNRzFy9onAfjTjuNbzlC5CGSoC7W4X-Q=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Lati Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2011-12-02T12:03:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zbTwd4qawKlZ3xEDd1dN91vSq14",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCmVNomVEhtUBbAjc006rtDA"
+            },
+            "snippet": {
+                "publishedAt": "2011-02-17T03:08:05Z",
+                "channelId": "UCmVNomVEhtUBbAjc006rtDA",
+                "title": "The Fashion Citizen",
+                "description": "Steph & Melissa Two frugal fashionistas living the dream in sunny Arizona For business inquires please email us: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYte5v8k3DlxyoYkJq9ZfDHVdJkJGZ1VCc2WMy-9A=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYte5v8k3DlxyoYkJq9ZfDHVdJkJGZ1VCc2WMy-9A=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYte5v8k3DlxyoYkJq9ZfDHVdJkJGZ1VCc2WMy-9A=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "The Fashion Citizen",
+                "liveBroadcastContent": "none",
+                "publishTime": "2011-02-17T03:08:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MIW9hdvETpoZRywJLeX60lOzk60",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC9EJcp4ppeqKET1f_Z0S8Tw"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-07T20:19:34Z",
+                "channelId": "UC9EJcp4ppeqKET1f_Z0S8Tw",
+                "title": "Fashion Elitist",
+                "description": "I hate fashion Email: a.fashion.elitist@gmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/_3Fobun6KiIp5rI05B6tDRoFQ7_SsOKeL_vIoLeKHrfacP7aX7YrRpJ2x2UyH_6O7Rjsv_53=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/_3Fobun6KiIp5rI05B6tDRoFQ7_SsOKeL_vIoLeKHrfacP7aX7YrRpJ2x2UyH_6O7Rjsv_53=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/_3Fobun6KiIp5rI05B6tDRoFQ7_SsOKeL_vIoLeKHrfacP7aX7YrRpJ2x2UyH_6O7Rjsv_53=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion Elitist",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2021-05-07T20:19:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7DNs89l7qIrhve2cATh0Kc6oBoE",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCj2_fTRSMGqo1KmOpmpaOzg"
+            },
+            "snippet": {
+                "publishedAt": "2011-02-09T11:21:01Z",
+                "channelId": "UCj2_fTRSMGqo1KmOpmpaOzg",
+                "title": "You Make Fashion",
+                "description": "youMAKEfashion est un blog o\u00f9 je partage mes looks, mes Do It Yourself, mes bonnes adresses et mes voyages. Ma cha\u00eene ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/f7a7K-gjPJ46RUBJCtZDjPz72M0v2ybXxwuY1Yxnz4zgo6GdhjYySPBY_JorQOum82OigOIf=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/f7a7K-gjPJ46RUBJCtZDjPz72M0v2ybXxwuY1Yxnz4zgo6GdhjYySPBY_JorQOum82OigOIf=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/f7a7K-gjPJ46RUBJCtZDjPz72M0v2ybXxwuY1Yxnz4zgo6GdhjYySPBY_JorQOum82OigOIf=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "You Make Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2011-02-09T11:21:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LpjmUV0AFi7HWaQ66_UGRuxtADE",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC3TQJ_yqi5Hpx_f-9p68jEg"
+            },
+            "snippet": {
+                "publishedAt": "2014-02-24T15:38:26Z",
+                "channelId": "UC3TQJ_yqi5Hpx_f-9p68jEg",
+                "title": "Fashion Maker",
+                "description": "Hy guys Wellcome to my Chanel (fashion maker). my name is ( Raj ) fashion designer. Fashion Influencer Pattern maker Draping ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ln-7g_6OW9F05xcW09LNHDv3PGOM_p06BjpeynVmg_wK1yG3Cy6TM90a6VF0CbMRtIpkPCxAAQ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ln-7g_6OW9F05xcW09LNHDv3PGOM_p06BjpeynVmg_wK1yG3Cy6TM90a6VF0CbMRtIpkPCxAAQ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ln-7g_6OW9F05xcW09LNHDv3PGOM_p06BjpeynVmg_wK1yG3Cy6TM90a6VF0CbMRtIpkPCxAAQ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion Maker",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-02-24T15:38:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zpN-D5EgzN76eSLFaLjqTR3HpJI",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCjKr2Ro-5X0BM6UptvhWvEw"
+            },
+            "snippet": {
+                "publishedAt": "2012-10-26T12:24:13Z",
+                "channelId": "UCjKr2Ro-5X0BM6UptvhWvEw",
+                "title": "The Ultimate Fashion History",
+                "description": "FASHION HISTORY LIKE YOU'VE NEVER LEARNED IT BEFORE. The Ultimate Fashion History Channel is created and narrated ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/Y88v--UqwD8GQ9338iaXGoX8k4CtCsV7ux2AxoM3wNMTVUzG4EBS0t6Ge7v6CC4VX84Me3km=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/Y88v--UqwD8GQ9338iaXGoX8k4CtCsV7ux2AxoM3wNMTVUzG4EBS0t6Ge7v6CC4VX84Me3km=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/Y88v--UqwD8GQ9338iaXGoX8k4CtCsV7ux2AxoM3wNMTVUzG4EBS0t6Ge7v6CC4VX84Me3km=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "The Ultimate Fashion History",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-10-26T12:24:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wWqUWBCtDbIYfJA6N-35_ByHONs",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCSvZTE-ZDWdgkmz9kwiYDRQ"
+            },
+            "snippet": {
+                "publishedAt": "2009-05-27T17:16:29Z",
+                "channelId": "UCSvZTE-ZDWdgkmz9kwiYDRQ",
+                "title": "Tokyo Fashion",
+                "description": "The official YouTube channel of TokyoFashion.com, the world's most popular English-language website about Japanese street ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKaGMcCbwOILXkaNmSJy89o8PFROdazhWiM3yd6gAw=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKaGMcCbwOILXkaNmSJy89o8PFROdazhWiM3yd6gAw=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKaGMcCbwOILXkaNmSJy89o8PFROdazhWiM3yd6gAw=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Tokyo Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-05-27T17:16:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2OvoAa4uV8OCzryEGQcVSVjp1TU",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCkLqoneIkMnFgXIr8VDpwyg"
+            },
+            "snippet": {
+                "publishedAt": "2014-07-08T04:30:06Z",
+                "channelId": "UCkLqoneIkMnFgXIr8VDpwyg",
+                "title": "Fashion Industry Broadcast",
+                "description": "Founded in 2011, Fashion Industry Broadcast has risen to become one of the leading destinations on the web for the latest in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYi1k0eMH4wyx-LNWZp5474cLFx6UjO46tchDfC7A=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYi1k0eMH4wyx-LNWZp5474cLFx6UjO46tchDfC7A=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYi1k0eMH4wyx-LNWZp5474cLFx6UjO46tchDfC7A=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion Industry Broadcast",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2014-07-08T04:30:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "D9aTlNW_tn1clvSAJHcVFDAoLII",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCc9z2YRSpx30kOA6EHb59Mw"
+            },
+            "snippet": {
+                "publishedAt": "2013-10-07T19:37:37Z",
+                "channelId": "UCc9z2YRSpx30kOA6EHb59Mw",
+                "title": "Fashion Breed",
+                "description": "Fashion Breed Videos is run by South African fashion and beauty digital influencer, Aqeelah Harron Ally, spinning off from her ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKbkWGJ3qw6CMDsozIRSGnakj9CIsetCheu5GVFD_A=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKbkWGJ3qw6CMDsozIRSGnakj9CIsetCheu5GVFD_A=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKbkWGJ3qw6CMDsozIRSGnakj9CIsetCheu5GVFD_A=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion Breed",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-10-07T19:37:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1fdVGj-jZx6sJ5OimMaRcMlIKRo",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCn2rgjATFoVcZgxCp-yq4fA"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-24T14:43:34Z",
+                "channelId": "UCn2rgjATFoVcZgxCp-yq4fA",
+                "title": "Fashion Museum",
+                "description": "The Fashion Museum Bath is one of the world's great museum collections of historic and contemporary dress. Fashion Museum ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ahy7ZZZjn9zpf6gl3VspS1Ss4HUuw8g2fnysXXT31jgkNftjWoGN24ibQ_u_SVYFaZGhVNhbfQ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ahy7ZZZjn9zpf6gl3VspS1Ss4HUuw8g2fnysXXT31jgkNftjWoGN24ibQ_u_SVYFaZGhVNhbfQ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ahy7ZZZjn9zpf6gl3VspS1Ss4HUuw8g2fnysXXT31jgkNftjWoGN24ibQ_u_SVYFaZGhVNhbfQ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion Museum",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-04-24T14:43:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "arod5irMdObv9JUHdsotAptaBEA",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCPegzUNwooyJ7fwK9dEvfBQ"
+            },
+            "snippet": {
+                "publishedAt": "2012-06-17T11:54:55Z",
+                "channelId": "UCPegzUNwooyJ7fwK9dEvfBQ",
+                "title": "Fashion teaching",
+                "description": "Learn how to draw fashion sketches with fashion illustrator Ioana Avram. I will help you learn how to draw fashion sketches and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKa0EwZiWZucw1eEYsE28HSw14OhP9Ev20zZ-mftZQ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKa0EwZiWZucw1eEYsE28HSw14OhP9Ev20zZ-mftZQ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKa0EwZiWZucw1eEYsE28HSw14OhP9Ev20zZ-mftZQ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion teaching",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-06-17T11:54:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sbrDKr5L20BXAv4tjekx7AKSSlw",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC_VhfmP15VMjJhha5TRtTPQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-28T09:22:10Z",
+                "channelId": "UC_VhfmP15VMjJhha5TRtTPQ",
+                "title": "Global Fashion Workshop",
+                "description": "Hello everyone! This is Irina Paukshte's channel, a tailor, designer and owner of the Paukshte Fashion House. This channel was ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKbbWg9v0KXLqfAC8swOosDC2-GId1peEEw_KK1Fuw=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKbbWg9v0KXLqfAC8swOosDC2-GId1peEEw_KK1Fuw=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKbbWg9v0KXLqfAC8swOosDC2-GId1peEEw_KK1Fuw=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Global Fashion Workshop",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2017-04-28T09:22:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZmbFt1ulDmfMStIv9b4dkOT1evg",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UClzmzZGs2tR_KDn306PNrtg"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-21T07:19:51Z",
+                "channelId": "UClzmzZGs2tR_KDn306PNrtg",
+                "title": "Remi's Fashion",
+                "description": "Hello, My name is Remi Forde-Hyde, I am a Fashion Designer, an Entrepreneur and a Digital Content Creator. This channel is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/K1i6ZrzbZYdkLn44s5IuIlMZOI6gabz_iQkKRcnzHHJ0D1dRoa25Go9oNd3QxNNnS8mMEluuGA=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/K1i6ZrzbZYdkLn44s5IuIlMZOI6gabz_iQkKRcnzHHJ0D1dRoa25Go9oNd3QxNNnS8mMEluuGA=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/K1i6ZrzbZYdkLn44s5IuIlMZOI6gabz_iQkKRcnzHHJ0D1dRoa25Go9oNd3QxNNnS8mMEluuGA=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Remi's Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-21T07:19:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qJAT3UuXSRoekD5-YeXrS_iJ8U0",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCEBe8Up8HueMFRIRLxc6qKQ"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-22T10:22:14Z",
+                "channelId": "UCEBe8Up8HueMFRIRLxc6qKQ",
+                "title": "MAYKA FASHION",
+                "description": "FASHION STYLIST.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/Z-E89-JAJwcv2I3byCalbLPtCDk0Z1ve9LKBAUyAOthFGG8H3IPSNs3AOLeAcNNW9UZ7PW-TCg=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/Z-E89-JAJwcv2I3byCalbLPtCDk0Z1ve9LKBAUyAOthFGG8H3IPSNs3AOLeAcNNW9UZ7PW-TCg=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/Z-E89-JAJwcv2I3byCalbLPtCDk0Z1ve9LKBAUyAOthFGG8H3IPSNs3AOLeAcNNW9UZ7PW-TCg=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "MAYKA FASHION",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2019-07-22T10:22:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vRvo3Z0Z3KtEt1d2T60yDhYLKAs",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC1sJANctVHdPDnC_umEqArg"
+            },
+            "snippet": {
+                "publishedAt": "2014-05-01T06:16:15Z",
+                "channelId": "UC1sJANctVHdPDnC_umEqArg",
+                "title": "Fashion Nova",
+                "description": "Fashion Nova is one of the world's leading fashion and lifestyle brands. Always at the forefront of style, we're renowned for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZHgRfvpS47UsIR4_HxpDH1fpSsigiyyVt_orJIdQ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZHgRfvpS47UsIR4_HxpDH1fpSsigiyyVt_orJIdQ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZHgRfvpS47UsIR4_HxpDH1fpSsigiyyVt_orJIdQ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion Nova",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-05-01T06:16:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cKN-ojADBxvXmWNzFSBN6Gbjw_c",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCwJm0BCLMMacMsmWaRoia-w"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-07T10:21:09Z",
+                "channelId": "UCwJm0BCLMMacMsmWaRoia-w",
+                "title": "Rup Fashion point",
+                "description": "Welcome to Rup Fashion point Here you learn how to design your own dresses. Bussiness Enquiry :- Gmail ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/JUAV955tn9n4WCFHpkSImYBCcqlFuYEGpeQaIPcaOI8_yZJ-rZofzptLjRv_XnnLDmJp_TKm=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/JUAV955tn9n4WCFHpkSImYBCcqlFuYEGpeQaIPcaOI8_yZJ-rZofzptLjRv_XnnLDmJp_TKm=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/JUAV955tn9n4WCFHpkSImYBCcqlFuYEGpeQaIPcaOI8_yZJ-rZofzptLjRv_XnnLDmJp_TKm=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Rup Fashion point",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-01-07T10:21:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2xQ97GMrxYsyx-Tzxq27HznnkQ0",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCabS1gYG4BOhdFm4HnybdHw"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-17T13:21:32Z",
+                "channelId": "UCabS1gYG4BOhdFm4HnybdHw",
+                "title": "TVN Fashion",
+                "description": "Kochasz mod\u0119, interesujesz si\u0119 makija\u017cem i sportem? To kana\u0142 dla Ciebie! :) tvnemotionstudio@tvn.pl.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/xy2Gw3ePQlMF8HbaFkGp-FXwasHjJYqZ2kRFF1gPDL2rIO4xx1u0tVtNkpJQ9_A3z9xsYmKaHQ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/xy2Gw3ePQlMF8HbaFkGp-FXwasHjJYqZ2kRFF1gPDL2rIO4xx1u0tVtNkpJQ9_A3z9xsYmKaHQ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/xy2Gw3ePQlMF8HbaFkGp-FXwasHjJYqZ2kRFF1gPDL2rIO4xx1u0tVtNkpJQ9_A3z9xsYmKaHQ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "TVN Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-03-17T13:21:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yZp37vpOJp9XI3xgOwlB0UiVNkI",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCMBS3CdOwk18JNqswsyWnmA"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-20T11:42:06Z",
+                "channelId": "UCMBS3CdOwk18JNqswsyWnmA",
+                "title": "ghori fashion designer",
+                "description": "Hii friends, It's the official youtube channel of ghori fashion designer on this channel i try to make you learn many types of trending ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKb3X_tOvPGRya_yGm9IllhLRqR-ZLgKO9Y22uSY9A=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKb3X_tOvPGRya_yGm9IllhLRqR-ZLgKO9Y22uSY9A=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKb3X_tOvPGRya_yGm9IllhLRqR-ZLgKO9Y22uSY9A=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "ghori fashion designer",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-11-20T11:42:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3NkJF44prt9Mdo0Z70Y0xV_Mgm8",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCgE2QqNOB1kj8rVcNKo0jKg"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-19T23:16:28Z",
+                "channelId": "UCgE2QqNOB1kj8rVcNKo0jKg",
+                "title": "Royal Daily Tea History & Fashion ",
+                "description": "Hello and welcome to the Royal Daily Tea History and Fashion Vlog channel! Here we will discuss all things royal with some extra ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/88FLWkCg5-1S1wBFs9naneJvcGG2-pVbD_Ka6fH8Zu0nMskDZw13eeyz_FGJteHEEbd8NrP0sjs=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/88FLWkCg5-1S1wBFs9naneJvcGG2-pVbD_Ka6fH8Zu0nMskDZw13eeyz_FGJteHEEbd8NrP0sjs=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/88FLWkCg5-1S1wBFs9naneJvcGG2-pVbD_Ka6fH8Zu0nMskDZw13eeyz_FGJteHEEbd8NrP0sjs=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Royal Daily Tea History & Fashion ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-19T23:16:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bPImT-Y3X8L4upfpN8WSMxMoRGM",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC2kbcyBy_qhZgbmJV2MQMZg"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-09T15:52:05Z",
+                "channelId": "UC2kbcyBy_qhZgbmJV2MQMZg",
+                "title": "LEVELONE FASHION",
+                "description": "Mein Name ist Violetta und ich f\u00fchre seit 2020 mit meinem Team den Online Shop LEVELONE FASHION In dieser Zeit haben wir ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/xIqNqjY7nNRawKqudIk7rAal7rRzuuwsVeNR7GkBXvqkolIikMhDr487OuCR6DnvllYqZTICnA=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/xIqNqjY7nNRawKqudIk7rAal7rRzuuwsVeNR7GkBXvqkolIikMhDr487OuCR6DnvllYqZTICnA=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/xIqNqjY7nNRawKqudIk7rAal7rRzuuwsVeNR7GkBXvqkolIikMhDr487OuCR6DnvllYqZTICnA=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "LEVELONE FASHION",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2021-08-09T15:52:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vdtj6RcFr0oOzK7I6riOrzQo0lk",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC15AvX0vZErss_njcxALrRw"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-16T16:13:38Z",
+                "channelId": "UC15AvX0vZErss_njcxALrRw",
+                "title": "Savi's Fashion Studio",
+                "description": "Welcome to Savi's Fashion Studio. We have been teaching pattern making and sewing since many years. In our youtube channel, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYfzZ5fiDvwWbowEkfoI1yr5q54pGNQ1iAu9ZAl5g=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYfzZ5fiDvwWbowEkfoI1yr5q54pGNQ1iAu9ZAl5g=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYfzZ5fiDvwWbowEkfoI1yr5q54pGNQ1iAu9ZAl5g=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Savi's Fashion Studio",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-07-16T16:13:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hij7Yf2cg0Kt9p7te3-HcSaOX5M",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC_X-yKa7LTgUmGgcM4aXk_A"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-13T07:03:41Z",
+                "channelId": "UC_X-yKa7LTgUmGgcM4aXk_A",
+                "title": "RR Fashion Point",
+                "description": "Hello! Welcome to R R Fashion Point Channel (Cutting and Stitching DIY) My name is Roshni, I am so glad to share my ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/q4_M9ao84cV_Eh6FiCqAUWt6Wc7JLz1XEFWu4KbQDTZ0BYXJLOEJzOXfv83ISE8E7sfHbKv6XaY=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/q4_M9ao84cV_Eh6FiCqAUWt6Wc7JLz1XEFWu4KbQDTZ0BYXJLOEJzOXfv83ISE8E7sfHbKv6XaY=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/q4_M9ao84cV_Eh6FiCqAUWt6Wc7JLz1XEFWu4KbQDTZ0BYXJLOEJzOXfv83ISE8E7sfHbKv6XaY=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "RR Fashion Point",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2017-12-13T07:03:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8DjMK0KLex6bKAIZHDM4smT-tzU",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCIQwBRVOfNjFYqErdH1qicQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-25T05:53:23Z",
+                "channelId": "UCIQwBRVOfNjFYqErdH1qicQ",
+                "title": "Rohini Fashion",
+                "description": "Welcome To My Channel.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYYFeyaAzqZ23rt4q4Y-JZghAb2-kdlhXEcPTTV=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYYFeyaAzqZ23rt4q4Y-JZghAb2-kdlhXEcPTTV=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKYYFeyaAzqZ23rt4q4Y-JZghAb2-kdlhXEcPTTV=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Rohini Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-08-25T05:53:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mG3ZdaOzdZaPU_qM7GmMuwYoYcE",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UClAw8epNmm3em0NBjRXVbZA"
+            },
+            "snippet": {
+                "publishedAt": "2013-04-12T14:35:09Z",
+                "channelId": "UClAw8epNmm3em0NBjRXVbZA",
+                "title": "Fashion By Look",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZ_XGgxQXSFgDVVcmk3dUIl-A3TACzU0jYRP1fB=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZ_XGgxQXSFgDVVcmk3dUIl-A3TACzU0jYRP1fB=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZ_XGgxQXSFgDVVcmk3dUIl-A3TACzU0jYRP1fB=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Fashion By Look",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-04-12T14:35:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "usVqdstXftpaxkaC1oV89MJP46Y",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCd56Uw8DWgbcXnwORemgVug"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-01T12:23:40Z",
+                "channelId": "UCd56Uw8DWgbcXnwORemgVug",
+                "title": "Central Saint Martins Fashion Programme",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKa4qRrr94UxsTC0fLloxJT0ptBe1XyRJ_QNfZp_=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKa4qRrr94UxsTC0fLloxJT0ptBe1XyRJ_QNfZp_=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKa4qRrr94UxsTC0fLloxJT0ptBe1XyRJ_QNfZp_=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Central Saint Martins Fashion Programme",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-04-01T12:23:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "z-7rGvfWpWCLUNXadV9AWRyKVok",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCG05dxXXYfydyCrEhLYS0eQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-28T02:42:59Z",
+                "channelId": "UCG05dxXXYfydyCrEhLYS0eQ",
+                "title": "Regi School of Fashion",
+                "description": "Hi! there, welcome to Regi School of Fashion. This is a platform created for individual who is interested in learning every aspect of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/KYLmRzdUwTST8aBrON8dBsEaw468Hgb4BbeihPux2Up6eG6iGWDakMfurIbsOtLe6ZfOS6o7Jt4=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/KYLmRzdUwTST8aBrON8dBsEaw468Hgb4BbeihPux2Up6eG6iGWDakMfurIbsOtLe6ZfOS6o7Jt4=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/KYLmRzdUwTST8aBrON8dBsEaw468Hgb4BbeihPux2Up6eG6iGWDakMfurIbsOtLe6ZfOS6o7Jt4=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Regi School of Fashion",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-05-28T02:42:59Z"
+            }
+        }
+    ]
+}
