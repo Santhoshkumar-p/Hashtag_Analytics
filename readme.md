@@ -35,9 +35,9 @@ This will launch default browser window with homepage at http://localhost:8501/
 Just Execute the below python command in CLI
 ```
 python your_directory\source\RunScraper.py 'nike' '5'
+```
 here 'nike' is the hashtag
       5 is the max crawling depth
-```
 
 If you launch the app without UI, you will get to find the 
 data files under the names(social_media_data.json -> Web Data, hashtag_analytics_data.json -> Analytics Data)
