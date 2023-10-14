@@ -35,6 +35,10 @@ This will launch default browser window with homepage at http://localhost:8501/
 Just Execute the below python command in CLI
 ```
 python your_directory\source\RunScraper.py 'nike' '5'
+
+or
+
+python your_directory\source\RunScraper.py 'nike' 5
 ```
 here 'nike' is the hashtag
       5 is the max crawling depth
