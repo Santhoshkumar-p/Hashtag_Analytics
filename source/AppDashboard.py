@@ -48,7 +48,7 @@ def get_analytics_data(hashtag, max_results) -> dict:
         st.session_state.APP_STARTUP = False
         return read_analytics_data()
     if st.session_state.web_scraper_running is False :   
-        log.info(f'********* Web Scraper Subprocess is running ********** {len(app.web_scraper_processes)}')  
+        log.info(f'********* Web Scraper Subprocess is running **********')  
         st.session_state.web_scraper_processes = True 
         st.session_state.APP_STARTUP = False
         result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
