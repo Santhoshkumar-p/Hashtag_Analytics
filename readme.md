@@ -32,24 +32,11 @@ This will launch default browser window with homepage at http://localhost:8501/
 
 ## How to Launch the app wihtout UI?
 
-#### Go to ./source/RunScraper.py (this is designed as a subprocess so comment out sys args) 
-
-Just Replace this block
+Just Execute the below python command in CLI
 ```
-args = sys.argv[1:]
-hashtag = args[0]
-max_results = int(args[1])
-controller = AnalyticsController(hashtag=hashtag, max_results=max_results)
-
-```
-
-with following block
-```
-#args = sys.argv[1:]
-#hashtag = args[0]
-#max_results = int(args[1])
-controller = AnalyticsController(hashtag='Your Hashtag', max_results=5)
-
+python your_directory\source\RunScraper.py 'nike' '5'
+here 'nike' is the hashtag
+      5 is the max crawling depth
 ```
 
 If you launch the app without UI, you will get to find the 
