@@ -1,5 +1,5 @@
 from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
-from SocialMediaService import SocialMediaService
+from service.SocialMediaService import SocialMediaService
 from TikTokApi import TikTokApi
 import asyncio
 import os
@@ -8,16 +8,16 @@ import logging
 import re
 import os
 import requests
-from SocailMediaDataModel import Location, SocialMediaDataModel
+from model.SocailMediaDataModel import Location, SocialMediaDataModel
 
 
 log = logging.getLogger(__name__)
 
 class TiktokService(SocialMediaService):
+     
     
     def __init__(self) -> None:
         super().__init__()
-        self.GEO_LOCATION_URL = "https://api.geoapify.com/v1/geocode/search?format=json&"
         pass
 
     def filter_related_hashtags(self, textExtra) -> list: 
@@ -26,10 +26,14 @@ class TiktokService(SocialMediaService):
 
     async def getAnalytics(self, hashtag, max_results) -> SocialMediaDataModel:
         async with TikTokApi() as api:
-            output = []
-            await api.create_sessions(ms_tokens=[os.environ.get('MS_TOKEN')], num_sessions=1, sleep_after=3)
-            log.info(f"Tiktok scraping session estabilished")
-            tag = api.hashtag(name=hashtag)
+            output = list()
+           # api.browser = await api.playwright.chromium.launch(headless=True, args=["--headless=new"])
+            session = await api.create_sessions(ms_tokens=[os.environ.get('MS_TOKEN')], num_sessions=1, sleep_after=3)
+
+            
+
+            log.info(f"Tiktok scraping session estabilished {session} errors found")
+            tag = api.hashtag(name=str(hashtag))
             async for video in tag.videos(count=max_results):
                 log.info(f"Tiktok Scraping in progress...current count is {len(output)}")
                 vid_dict = video.as_dict
@@ -55,6 +59,8 @@ class TiktokService(SocialMediaService):
                 post_model.update({'no_of_comments':vid_dict['stats']['commentCount']})
                 post_model.update({'no_of_shares':vid_dict['stats']['shareCount']})
                 post_model.update({'no_of_views':vid_dict['stats']['playCount']})
+                post_model.update({'no_of_mentions':vid_dict['stats']['collectCount']})
+                post_model.update({'performance':vid_dict['stats']['diggCount']})
                 post_model.update({'post_date':vid_dict['createTime']})
                 post_model.update({'hashtags':self.filter_related_hashtags(vid_dict['textExtra'])})
                 post_model.update({'language':'English'})
@@ -62,57 +68,10 @@ class TiktokService(SocialMediaService):
                 location = self.extract_location(vid_dict['desc'])
                 if location is not None:
                     log.info("Tiktok post contains Geolocation data")
-                    post_model.update({'location':await self.extract_geo_location(location)})
+                    post_model.update({'location':asyncio.run(await self.extract_geo_location(location))})
                 
                 user_model.update({'posts':[post_model]})
                 output.append(user_model)
         result = SocialMediaDataModel(output)
-        return result
-
-
-    async def extract_geo_location(self, desc) -> Location: 
-        geo_location_api_key = os.environ.get('GEO_API_KEY')
-        log.info("Geo Location API Secret Key Retrieved")
-        url_params = {'text': {desc}, 'apiKey': {geo_location_api_key}}
-        parsed_url = urlparse(self.GEO_LOCATION_URL)
-
-        query_params = parse_qs(parsed_url.query)
-
-        # Add or modify query parameters
-        query_params["text"] = [{desc}]
-        query_params["apiKey"] = [{geo_location_api_key}]
-
-        updated_query_string = urlencode(query_params, doseq=True)
-        new_url = urlunparse((parsed_url.scheme, parsed_url.netloc, parsed_url.path, parsed_url.params, updated_query_string, parsed_url.fragment))
-
-        log.info(f"Geo Location API URL {new_url}")
-        
-        with requests.get(new_url) as response: 
-            response_json = response.json()
-            
-            if 'results' in response_json and response_json['results']:
-                location = Location(**response_json['results'][0])
-                log.info("`GeoLocation data found in the API response")
-                return location
-            else: 
-                log.info("No Geolocation data found in the API response")
-                return None
-
-    def extract_location(self, desc) -> str:
-        location_pattern = r"in ([\w\s]+), ([\w\s]+)"
-        match = re.search(location_pattern, desc)
-        location = None
-        if match:
-            city = match.group(1)
-            state = match.group(2)
-            location = f"{city}, {state}"
-            log.info(f"Location found in the desc:{location}")
-            return location
-        else:
-            log.info("Location not found in the input string.")
-            return location
-
-    
-
-    def writeToFile(self, fileName: str):
-        pass
+        log.info(f"Web Scraping Finished for App Name: Tiktok total results {len(output)}")
+        return result 

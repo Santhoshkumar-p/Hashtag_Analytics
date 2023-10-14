@@ -1,21 +1,25 @@
-from AppFacade import AppFacade
-from SocailMediaDataModel import SocialMediaDataModel
-from TiktokService import TiktokService
+import asyncio
+from service.YoutubeService import YoutubeService
+from service.InstagramService import InstagramService
+from service.WebScraperFacade import WebScraperFacade
+from model.SocailMediaDataModel import SocialMediaDataModel
+from service.TiktokService import TiktokService
 import logging
 
 log = logging.getLogger(__name__)
 
-class AppController: 
+class WebScraperController: 
+    
     def __init__(self,query:str, max_results:int) -> None:
         self.query = query
         self.max_results = max_results
         tiktokService = TiktokService()
-        # socialMediaServices.append(YoutubeService())
-        # socialMediaServices.append(InstagramService())
+        instagramService = InstagramService()
+        ytService = YoutubeService()
         # socialMediaServices.append(TwitterService())
         # socialMediaServices.append(SnapchatService())
-        self.socialMediaServices = [tiktokService]
-        self.appFacade = AppFacade(self.query, self.max_results, socialMediaServices=self.socialMediaServices)
+        self.socialMediaServices = [ytService,instagramService,tiktokService]
+        self.appFacade = WebScraperFacade(self.query, self.max_results, socialMediaServices=self.socialMediaServices)
         pass
 
     def getSocialMediaTrends(self) -> SocialMediaDataModel:       
@@ -24,7 +28,7 @@ class AppController:
         for platform in self.socialMediaServices:
             service_name = type(platform).__name__
             log.info(f"App Name: {service_name}")
-        result = self.appFacade.execute()
+        result = asyncio.run(self.appFacade.execute())
         log.info(f"Social Media Analytics Result Size {result.get_no_of_users()}")  
         return result
 
