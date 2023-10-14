@@ -1,8 +1,8 @@
 <h1>Social Media Keyword Analytics Plaform</h1>
 
 ## How to setup the project?
-Please install all required libraries first to run the project as specified in the requirements.txt file
-and choose the option of launching app with or without GUI 
+Please install all the required libraries as specified in the requirements.txt file first
+and choose the option of launching the app with or without GUI 
 
 For pip users
 ```
