@@ -1,5 +1,13 @@
 <h1>Social Media Keyword Analytics Plaform</h1>
 
+## What is it?
+
+Demo -> 
+
+
+[<img src="https://github.com/Santhoshkumar-p/Hashtag_Analytics/assets/24734488/93b05353-65d3-4e75-a02e-7ed55089c75f" width="50%">](https://clipchamp.com/watch/mXZhUSxp1NY)
+
+
 ## How to setup the project?
 Please install all the required libraries as specified in the requirements.txt file first
 and choose the option of launching the app with or without GUI 
