@@ -2,10 +2,9 @@
 
 ## What is it?
 
-Demo -> 
+Demo Video Link -> (https://clipchamp.com/watch/mXZhUSxp1NY)
 
-
-[<img src="https://github.com/Santhoshkumar-p/Hashtag_Analytics/assets/24734488/93b05353-65d3-4e75-a02e-7ed55089c75f" width="50%">](https://clipchamp.com/watch/mXZhUSxp1NY)
+[<img src="https://github.com/Santhoshkumar-p/Hashtag_Analytics/assets/24734488/93b05353-65d3-4e75-a02e-7ed55089c75f" width="50%">]
 
 
 ## How to setup the project?
