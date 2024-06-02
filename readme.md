@@ -5,6 +5,9 @@
 Demo Video Link -> (https://clipchamp.com/watch/mXZhUSxp1NY)
 
 [<img src="https://github.com/Santhoshkumar-p/Hashtag_Analytics/assets/24734488/93b05353-65d3-4e75-a02e-7ed55089c75f" width="50%">]
+![localhost_8501_ (5)](https://github.com/Santhoshkumar-p/Hashtag_Analytics/assets/24734488/721708be-0972-48be-8b7f-172c014b3d4a)
+![localhost_8501_ (7)](https://github.com/Santhoshkumar-p/Hashtag_Analytics/assets/24734488/1043b355-462e-4785-a85d-8e55bbce64dc)
+![localhost_8501_](https://github.com/Santhoshkumar-p/Hashtag_Analytics/assets/24734488/231da13b-d8e1-400c-a1cc-80928e6262c1)
 
 
 ## How to setup the project?
